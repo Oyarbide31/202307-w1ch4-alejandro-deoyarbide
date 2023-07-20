@@ -1,0 +1,8 @@
+article {
+  display: grid;
+  place-items: center;
+}
+
+img {
+  border-radius: 40px;
+}
